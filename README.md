@@ -1,0 +1,2 @@
+# CloudNote
+Note of technology
